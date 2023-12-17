@@ -1,1 +1,1 @@
-# file_streaming_application
+# simple_file_streaming_application
